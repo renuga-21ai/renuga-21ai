@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Renuga 👋
 
-<!--
-**renuga-21ai/renuga-21ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a Pre-final Year AI & Data Science student interested in **Data Analytics, Artificial Intelligence, Machine Learning, and Data-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, finding meaningful insights, and building practical projects using technology.
+
+## 🛠️ Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Excel
+- 📈 Power BI
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Data Analytics
+
+## 📂 What You'll Find Here
+
+- Data Analytics Projects
+- Machine Learning Projects
+- AI-based Projects
+- College Projects
+- Practice & Learning Projects
+
+## 🎯 Career Goal
+
+Aspiring **Data Analyst**, with an interest in using data to solve real-world problems and support better decision-making.
+
+---
+
+⭐ Thanks for visiting my profile!
